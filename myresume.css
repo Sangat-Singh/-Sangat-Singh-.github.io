@@ -91,8 +91,13 @@ body {
     border-radius: 50%;
     border: 3px solid #00aaff;
   }
+  .Image {
+    background-color: #f9f9f9;
+    padding: 30px;
+    border-radius: 100px;
+  }
   
-  .education, .experience, .skills, .projects {
+  .education, .experience, .skills, .languages {
     background-color: #f9f9f9;
     padding: 15px;
     border-radius: 8px;
